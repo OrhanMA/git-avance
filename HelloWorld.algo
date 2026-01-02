@@ -9,7 +9,7 @@ Créer un label avec du texte centré et contenant le texte HELLO_WORLD_TEXTE
 Créer la couleur bleu
 Créer la couleur verte
 Mettre la couleur bleu sur le label
-Mettre la couleur jaune en fond de fenêtre
+Mettre la couleur cyan en fond de fenêtre
 // Finalisation
 Ajouter le label sur la fenetre
 Afficher la fenêtre
